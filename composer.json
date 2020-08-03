@@ -1,0 +1,15 @@
+{
+    "name": "bureau/myapp",
+    "authors": [
+        {
+            "name": "Pascal",
+            "email": "it.tech@laposte.net"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
